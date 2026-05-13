@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br><br>👨‍💻 All of my projects are available at https://www.behance.net/gallery/224240141/My-Portfolio<br><br>💬 Ask me about react,Next.js and Node.js<br><br>📫 How to reach me: dev.abdullah02@gmail.com<br><br>⚡ Fun fact, I am always learning and always building
+👨‍💻 All of my projects are available at https://www.behance.net/gallery/224240141/My-Portfolio<br><br>💬 Ask me about react,Next.js and Node.js<br><br>📫 How to reach me: dev.abdullah02@gmail.com<br><br>⚡ Fun fact, I am always learning and always building
 
 
 ## 🌐 Socials:
